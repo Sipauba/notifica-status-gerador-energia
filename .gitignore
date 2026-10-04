@@ -1,0 +1,12 @@
+.pio/
+.vscode/
+include/config.h
+.env
+.env.*
+*.bin
+*.elf
+*.map
+.DS_Store
+Thumbs.db
+secrets/
+credentials/
